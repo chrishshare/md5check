@@ -1,0 +1,10 @@
+# 检查类型，枚举值: yml,sql,version
+checktype: version
+# yaml文件路径
+yamlPath: D:\01_codes\03_docs\django-rest-framework-master
+# sql文件路径
+sqlPath: D:\sql
+# 版本材料源文件路径
+versionSourcePath: D:\sql
+# 收集后的版本材料路径
+versionDestPath: F:\02_VideoCourse\01_develop\01_Python\django2.0基础到项目实战(2.0版本推荐观看)\1-50
